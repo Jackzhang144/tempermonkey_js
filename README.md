@@ -25,11 +25,11 @@
 
 ### 安装脚本
 
-1.  **最简单的方法**: 点击此链接安装 -> [安装自动化大红楼](https://github.com/Jackzhang144/tempermonkey_js/blob/main/AutoHePan.user.js)
+1.  **最简单的方法**: 点击此链接安装 -> [安装自动化大红楼](https://github.com/Jackzhang144/tempermonkey_js/raw/main/AutoHePan.user.js)
 2.  **手动安装**:
     *   访问您的油猴脚本管理器的“仪表盘”页面。
     *   点击“实用工具”选项卡。
-    *   在“从 URL 安装”区域，粘贴以下脚本的 **RAW** 地址（例如：`https://github.com/Jackzhang144/tempermonkey_js/blob/main/AutoHePan.user.js`）。
+    *   在“从 URL 安装”区域，粘贴以下脚本的 **RAW** 地址（例如：`https://github.com/Jackzhang144/tempermonkey_js/raw/main/AutoHePan.user.js`）。
     *   点击“安装”，确认提示即可。
 
 ## 使用方法
