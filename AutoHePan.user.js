@@ -8,8 +8,8 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_registerMenuCommand
-// @downloadURL https://github.com/Jackzhang144/tempermonkey_js/AutoHePan.user.js
-// @updateURL https://github.com/Jackzhang144/tempermonkey_js/AutoHePan.user.js
+// @downloadURL https://github.com/Jackzhang144/tempermonkey_js/blob/main/AutoHePan.user.js
+// @updateURL https://github.com/Jackzhang144/tempermonkey_js/blob/main/AutoHePan.user.js
 // ==/UserScript==
 
 
