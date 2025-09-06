@@ -25,13 +25,11 @@
 
 ### 安装脚本
 
-1.  **最简单的方法**: 点击此链接安装 -> [安装自动化大红楼](https://github.com/Jackzhang144/tempermonkey_js/raw/main/AutoHePan.user.js)
-    *(注意：请确保上面的 `@downloadURL` 和 `@updateURL` 在您的脚本中已正确配置为您的 GitHub 仓库的 raw 文件地址)*
-
+1.  **最简单的方法**: 点击此链接安装 -> [安装自动化大红楼](https://github.com/Jackzhang144/tempermonkey_js/blob/main/AutoHePan.user.js)
 2.  **手动安装**:
     *   访问您的油猴脚本管理器的“仪表盘”页面。
     *   点击“实用工具”选项卡。
-    *   在“从 URL 安装”区域，粘贴以下脚本的 **RAW** 地址（例如：`https://github.com/Jackzhang144/tempermonkey_js/raw/main/AutoHePan.user.js`）。
+    *   在“从 URL 安装”区域，粘贴以下脚本的 **RAW** 地址（例如：`https://github.com/Jackzhang144/tempermonkey_js/blob/main/AutoHePan.user.js`）。
     *   点击“安装”，确认提示即可。
 
 ## 使用方法
@@ -53,8 +51,8 @@
 
 所有配置都保存在您的浏览器本地。
 
--   **最小间隔**: 推荐 ≥ 3000 毫秒（3秒）。
--   **最大间隔**: 推荐 ≥ 8000 毫秒（8秒），且必须大于最小间隔。
+-   **最小间隔**: 推荐 ≥ 1000 毫秒（1秒）。
+-   **最大间隔**: 推荐 ≥ 2000 毫秒（2秒），且必须大于最小间隔。
 -   **发帖内容**: 可以自由发挥，例如 `["水水", "顶", "感谢分享"]`。
 -   **面板位置**: 可以直接用鼠标拖拽控制面板来改变其位置。
 
